@@ -15,8 +15,9 @@
 3.文件构成：
 
 - CardMain.java：程序入口
-- CardTools.java：功能实现
-4.测试环境
+- CardTools.java：功能实现  
+
+4.测试环境:
 
 - JDK：
   1.8.0_191  
