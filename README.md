@@ -15,13 +15,20 @@
 3.文件构成:  
 
 - CardMain.java：程序入口
-
 - Card.java：被继承的名片类
 - EmployeeCard.java：员工名片
 - StudentCard.java：学生名片    
+- CardTools.java：功能实现 
 
-4.非要我加一些类，没办法又写了点  。。
+5.测试环境:
 
-
+- JDK：
+  1.8.0_191  
+- OS：
+  Deepin 15.8
 
 2018年12月17日20:25:16
+
+2018-12-26 18:33:04 
+
+非要我加一些类，没办法又写了点  。。
